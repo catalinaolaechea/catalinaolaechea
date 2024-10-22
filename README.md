@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Catalina Olaechea</h1>
+<h1 align="center">Hola 👋, Soy Catalina Olaechea</h1>
 <h3 align="center">Estudiante de ingeniería en sistemas en la UTN</h3>
 
 - 🔭 Estoy en busca de un trabajo en: **Desarrollo web o análisis de sistemas**
