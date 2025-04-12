@@ -1,12 +1,6 @@
 <h1 align="center">Hola 👋, Soy Catalina Olaechea</h1>
 <h3 align="center">Estudiante de ingeniería en sistemas en la UTN</h3>
 
-- 🔭 En busca de un trabajo en: **Desarrollo web o análisis de sistemas**
-
-- 🌱 Actualmente en proceso de aprendizaje de: **Desarrollo web full stack**
-
-- 📫 Mi mail es: **catalinaolaechea9@gmail.com**
-
 <h3 align="left">Mis redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/catalina-olaechea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catalina-olaechea" height="30" width="40" /></a>
